@@ -1,0 +1,12 @@
+# binaries
+gnotes
+*.exe
+*.out
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# local secrets / tokens
+.gnotes/
