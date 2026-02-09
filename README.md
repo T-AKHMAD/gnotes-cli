@@ -1,3 +1,5 @@
+![CI](https://github.com/T-AKHMAD/gnotes-cli/actions/workflows/ci.yml/badge.svg)
+
 # gnotes-cli
 
 CLI-клиент для проекта **gopher-notes**: логин, logout, профиль, заметки (list/create/get/delete).
